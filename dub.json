@@ -1,0 +1,10 @@
+{
+    "name": "ldapd",
+    "description": "libldap wrapper for D",
+    "targetType": "library",
+    "license": "MIT",
+    "copyright": "Copyright © 2014, Taylor Lawson",
+    "authors": ["Taylor \"Nekroze\" Lawson <tlawson@nekroze.com>"],
+    "dependencies": {
+    }
+}
